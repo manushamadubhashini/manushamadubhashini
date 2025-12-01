@@ -2,7 +2,7 @@
 
 <!-- Add your custom banner image here -->
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMTU5MTksIm5iZiI6MTc2NDMxNTYxOSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA3NDAxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlmMjE0OWEyZDE3NmMyM2VhODE2NDBlNTYxMDIyODYwNTg5NWM3MmZiMmYyMGYxNGNiMzMyM2YzZDUxMjAxNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8W-ZFuzwyRtYRRVs8CpD5AleOlrfrYevy6B-SDAEmIw" width="100%" />
+  <img width="2000" height="400" alt="Image" src="https://github.com/user-attachments/assets/6643541b-867c-4b8d-ab86-10b3e627b003" />
 </div>
 
 <h1 align="center">
